@@ -1,0 +1,13 @@
+
+public class Portaviones implements Barcos {
+
+    public Integer Posicion(int x, int y) {
+return 0;    }
+
+    public Boolean Disparo(int x, int y) {
+return null;    }
+
+    public Boolean Hundimiento(int x, int y) {
+return null;    }
+    
+}
